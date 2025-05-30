@@ -11,4 +11,4 @@ Step 2: Add
 
         <add langsmith if you wish to>
 
-Step 3: That's it! Try scoring your leads using postman at: "localhost:8001/score" 
+Step 3: That's it! Try scoring your leads using postman at: "`localhost:8001/score`" 
