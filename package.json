@@ -1,0 +1,23 @@
+{
+  "name": "lq.ai",
+  "version": "1.0.0",
+  "description": "AI based lead scoring system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lq.ai",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.57",
+    "@langchain/langgraph": "^0.2.74",
+    "@langchain/openai": "^0.5.11",
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "langsmith": "^0.3.29",
+    "zod": "^3.25.42"
+  }
+}
