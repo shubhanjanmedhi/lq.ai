@@ -2,6 +2,7 @@
 Lead Scoring AI Agent using express.js
 
 Step 1: Create a .env file to the project root
+
 Step 2: Add OPENAI_API_KEY=<your-open-ai-api-key>
         PORT=8001
         <add langsmith if you wish to>
