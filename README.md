@@ -6,12 +6,11 @@ Pre-requisite: Node.js must be installed in your system
 Step 1: Create a `.env` file to the project root
 
 Step 2: Add
-
-        OPENAI_API_KEY=<your-open-ai-api-key>
-        
-        PORT=8001
-
-        <add langsmith if you wish to>
+```
+OPENAI_API_KEY=<your-open-ai-api-key>      
+PORT=8001
+<add langsmith if you wish to>
+```
 
 Step 3: Open `terminal` and run `npm install`
 
