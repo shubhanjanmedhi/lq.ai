@@ -8,7 +8,7 @@
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lq.ai",
+  "author": "Shubhanjan",
   "license": "ISC",
   "dependencies": {
     "@langchain/core": "^0.3.57",
